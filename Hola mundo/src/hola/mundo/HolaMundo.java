@@ -20,6 +20,9 @@ public class HolaMundo {
         // TODO code application logic here
        Scanner leer = new Scanner(System.in);
         System.out.println("hola mundo");
+        System.out.println("cual es tu nombre");
+        String nombre=leer.nextLine();
+        
         
         
         
