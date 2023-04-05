@@ -22,6 +22,9 @@ public class HolaMundo {
         System.out.println("hola mundo");
         System.out.println("cual es tu nombre");
         String nombre=leer.nextLine();
+        System.out.println("edad");
+        int edad=leer.nextInt();
+        
         
         
         
