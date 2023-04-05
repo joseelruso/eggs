@@ -25,6 +25,10 @@ public class HolaMundo {
         System.out.println("edad");
         int edad=leer.nextInt();
         
+        System.out.println("pais de residencia");
+        String pais=leer.nextLine();
+        
+        
         
         
         
